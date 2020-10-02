@@ -12,3 +12,6 @@ cerca di fare il seriooooooo
 
 ##bho
 bhobholo
+
+### Copyright
+2014 Git.Training.
